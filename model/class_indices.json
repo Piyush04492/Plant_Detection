@@ -1,0 +1,23 @@
+{
+    "class_names": [
+        "Potato___Early_blight",
+        "Potato___Late_blight",
+        "Potato___healthy",
+        "Tomato___Early_blight",
+        "Tomato___Late_blight",
+        "Tomato___healthy"
+    ],
+    "class_to_idx": {
+        "Potato___Early_blight": 0,
+        "Potato___Late_blight": 1,
+        "Potato___healthy": 2,
+        "Tomato___Early_blight": 3,
+        "Tomato___Late_blight": 4,
+        "Tomato___healthy": 5
+    },
+    "image_size": [
+        128,
+        128
+    ],
+    "num_classes": 6
+}
